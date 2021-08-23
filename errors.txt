@@ -1,0 +1,7 @@
+"- (ERROR)(#1022) - Too little arguments supplied. Use '-h' for HELP."
+"- (ERROR)(#1023) - Too many arguments supplied. Use '-h' for HELP."
+"- (ERROR)(#1024) - stat() on directory."
+"- (ERROR)(#1025) - SRC directory does not exist."
+"- (ERROR)(#1026) - stat() on directory."
+"- (ERROR)(#1027) - DEST directory does not exist."
+

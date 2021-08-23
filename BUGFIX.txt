@@ -1,0 +1,4 @@
+ERRORS BUGS FIX:
+-----
+
+- 05-01-2021 - Error messages still show in verbose mode and quiet mode.

@@ -1,0 +1,27 @@
+BBCKP27:
+-----
+
+- splash screen
+- PING server in production version
+- if logging option specified -> create (unique) logfile
+- write program name to log file
+- SRC
+- DEST
+- verify SRC && DEST
+    - or create DEST
+- add date to generated backup file in DEST
+- generate command for backup
+- log command for backup if specified
+- backup SRC to DEST
+- log location of SRC && DEST
+- display status
+- log status / errors
+
+
+Additional:
+-----
+
+- error codes
+- error messages
+- restore function
+

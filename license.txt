@@ -1,0 +1,4 @@
+YXXX-XXXX-XXXX-XXXD = Developer's License
+XYXX-XYXX-XXYX-XXXF = Free License
+XXYX-XXXX-XXXX-XXXT = Trial License
+XXXY-XXXX-XXXX-XXXC = Commercial License

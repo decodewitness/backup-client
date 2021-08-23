@@ -1,0 +1,9 @@
+Package: bbckup27
+Version: 0.1-1c
+Architecture: all
+Maintainer: Vera Lo <subjectunusual [at] gmail [dot] com>
+Depends: apt, p7zip-full
+Installed-Size: 37.5
+Homepage: https://github.com/decodewitness/BBCKUP27
+Description: Simple __Backup Program.
+ Will back up files from SRC directory to a DEST directory.
